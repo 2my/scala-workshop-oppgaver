@@ -1,5 +1,5 @@
 
-scalaVersion := "2.9.0"
+scalaVersion := "2.9.0-1"
 
 seq(WebPlugin.webSettings :_*)
 

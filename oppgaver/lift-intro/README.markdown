@@ -20,6 +20,7 @@ Mål
 Del 1
 -----
 Start med å verifiser at applikasjonen kjører som forventet. I sbt, kjør `jetty-run`. Applikasjonen er tilgjengelig på `http://localhost:8080`
+Kan deretter kjøre (i sbt) ' ~ prepare-webapp' - så installerers en listener som rekompilerer og legger ut når jeg redigerer. Avsluttes med return
 
 Det første vi skal gjøre er å sørge for at brukere må identifisere seg. Vi skal implementere en slags innlogging.
 
